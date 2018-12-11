@@ -1,0 +1,9 @@
+E:\programming\igra_MorskoyBoy\igra_MorskoyBoy\bin\Debug\igra_MorskoyBoy.exe.config
+E:\programming\igra_MorskoyBoy\igra_MorskoyBoy\bin\Debug\igra_MorskoyBoy.exe
+E:\programming\igra_MorskoyBoy\igra_MorskoyBoy\bin\Debug\igra_MorskoyBoy.pdb
+E:\programming\igra_MorskoyBoy\igra_MorskoyBoy\obj\Debug\igra_MorskoyBoy.csprojResolveAssemblyReference.cache
+E:\programming\igra_MorskoyBoy\igra_MorskoyBoy\obj\Debug\igra_MorskoyBoy.Properties.Resources.resources
+E:\programming\igra_MorskoyBoy\igra_MorskoyBoy\obj\Debug\igra_MorskoyBoy.csproj.GenerateResource.Cache
+E:\programming\igra_MorskoyBoy\igra_MorskoyBoy\obj\Debug\igra_MorskoyBoy.exe
+E:\programming\igra_MorskoyBoy\igra_MorskoyBoy\obj\Debug\igra_MorskoyBoy.pdb
+E:\programming\igra_MorskoyBoy\igra_MorskoyBoy\obj\Debug\igra_MorskoyBoy.Form1.resources
